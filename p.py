@@ -24,7 +24,7 @@ def ask_question(question):
 questions = [
     "How do I reset my password?",
     "How do I reset my password?",
-    "how do i reset my password",
+    "how do i reset mypassword",
     "I forgot my password, how can I change it?"
 ]
 
